@@ -1,16 +1,10 @@
-# Nextra Docs Template 
+# Gardening 101 🪴
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
-
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+Welcome to Gardening 101, an open source resource for gardening enthusiasts!
 
 ## Quick Start
 
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+To contribute to Gardening 101, simply clone this repository, and [submit changes in a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). If you need help contributing or want to request information from the community, feel free to [create an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)!
 
 ## Local Development
 
